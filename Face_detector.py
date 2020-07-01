@@ -1,5 +1,11 @@
 #!/usr/bin/env python
 # coding: utf-8
+"""
+Face detector model which can predict faces in a frame bounded . 
+
+Author : Mohammed Hashim
+Created : 25-05-2020
+"""
 
 # In[10]:
 
